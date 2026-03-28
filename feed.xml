@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Nunca Studios</title>
+    <link href="https://nuncastudios.com/feed.xml" rel="self" />
+    <link href="https://nuncastudios.com" />
+    <updated>2026-03-28T13:53:10-03:00</updated>
+    <author>
+        <name>NuncaDev</name>
+    </author>
+    <id>https://nuncastudios.com</id>
+
+    <entry>
+        <title>teste post 1</title>
+        <author>
+            <name>NuncaDev</name>
+        </author>
+        <link href="https://nuncastudios.com/teste-post-1.html"/>
+        <id>https://nuncastudios.com/teste-post-1.html</id>
+
+        <updated>2026-03-28T13:53:10-03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    asa dlkjapjo smdas
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>asa dlkjapjo smdas</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

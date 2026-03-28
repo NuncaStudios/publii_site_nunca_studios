@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Nunca Studios",
+    "description": "",
+    "home_page_url": "https://nuncastudios.com",
+    "feed_url": "https://nuncastudios.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "NuncaDev"
+    },
+    "items": [
+        {
+            "id": "https://nuncastudios.com/teste-post-1.html",
+            "url": "https://nuncastudios.com/teste-post-1.html",
+            "title": "teste post 1",
+            "summary": "asa dlkjapjo smdas",
+            "content_html": "<p>asa dlkjapjo smdas</p>",
+            "author": {
+                "name": "NuncaDev"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-28T13:53:10-03:00",
+            "date_modified": "2026-03-28T13:53:10-03:00"
+        }
+    ]
+}
