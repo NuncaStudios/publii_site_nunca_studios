@@ -3,29 +3,78 @@
     <title>Nunca Studios</title>
     <link href="https://nuncastudios.com/feed.xml" rel="self" />
     <link href="https://nuncastudios.com" />
-    <updated>2026-03-28T13:53:10-03:00</updated>
+    <updated>2026-03-28T21:53:01-03:00</updated>
     <author>
         <name>NuncaDev</name>
     </author>
     <id>https://nuncastudios.com</id>
 
     <entry>
-        <title>teste post 1</title>
+        <title>Fisrt Post (copy)</title>
+        <author>
+            <name>NuncaDev</name>
+        </author>
+        <link href="https://nuncastudios.com/teste-post-3.html"/>
+        <id>https://nuncastudios.com/teste-post-3.html</id>
+        <media:content url="https://nuncastudios.com/media/posts/6/logo_nunc22a-3.png" medium="image" />
+
+        <updated>2026-03-28T21:52:48-03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://nuncastudios.com/media/posts/6/logo_nunc22a-3.png" alt="" />
+                    This is the first post on this site.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://nuncastudios.com/media/posts/6/logo_nunc22a-3.png" class="type:primaryImage" alt="" /></p>
+                <p>This is the first post on this site.<figure class="post__image"><img loading="lazy"  src="https://nuncastudios.com/media/posts/6/logo_nunc22a-2.png" alt="" width="1920" height="1080" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nuncastudios.com/media/posts/6/responsive/logo_nunc22a-2-xs.png 300w ,https://nuncastudios.com/media/posts/6/responsive/logo_nunc22a-2-sm.png 480w ,https://nuncastudios.com/media/posts/6/responsive/logo_nunc22a-2-md.png 768w ,https://nuncastudios.com/media/posts/6/responsive/logo_nunc22a-2-lg.png 1024w ,https://nuncastudios.com/media/posts/6/responsive/logo_nunc22a-2-xl.png 1360w ,https://nuncastudios.com/media/posts/6/responsive/logo_nunc22a-2-2xl.png 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Fisrt Post (copy)</title>
+        <author>
+            <name>NuncaDev</name>
+        </author>
+        <link href="https://nuncastudios.com/teste-post-2.html"/>
+        <id>https://nuncastudios.com/teste-post-2.html</id>
+        <media:content url="https://nuncastudios.com/media/posts/5/logo_nunc22a-3.png" medium="image" />
+
+        <updated>2026-03-28T21:52:46-03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://nuncastudios.com/media/posts/5/logo_nunc22a-3.png" alt="" />
+                    This is the first post on this site.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://nuncastudios.com/media/posts/5/logo_nunc22a-3.png" class="type:primaryImage" alt="" /></p>
+                <p>This is the first post on this site.<figure class="post__image"><img loading="lazy"  src="https://nuncastudios.com/media/posts/5/logo_nunc22a-2.png" alt="" width="1920" height="1080" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nuncastudios.com/media/posts/5/responsive/logo_nunc22a-2-xs.png 300w ,https://nuncastudios.com/media/posts/5/responsive/logo_nunc22a-2-sm.png 480w ,https://nuncastudios.com/media/posts/5/responsive/logo_nunc22a-2-md.png 768w ,https://nuncastudios.com/media/posts/5/responsive/logo_nunc22a-2-lg.png 1024w ,https://nuncastudios.com/media/posts/5/responsive/logo_nunc22a-2-xl.png 1360w ,https://nuncastudios.com/media/posts/5/responsive/logo_nunc22a-2-2xl.png 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Fisrt Post</title>
         <author>
             <name>NuncaDev</name>
         </author>
         <link href="https://nuncastudios.com/teste-post-1.html"/>
         <id>https://nuncastudios.com/teste-post-1.html</id>
+        <media:content url="https://nuncastudios.com/media/posts/1/logo_nunc22a-3.png" medium="image" />
 
         <updated>2026-03-28T13:53:10-03:00</updated>
             <summary type="html">
                 <![CDATA[
-                    asa dlkjapjo smdas
+                        <img src="https://nuncastudios.com/media/posts/1/logo_nunc22a-3.png" alt="" />
+                    This is the first post on this site.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>asa dlkjapjo smdas</p>
+                    <p><img src="https://nuncastudios.com/media/posts/1/logo_nunc22a-3.png" class="type:primaryImage" alt="" /></p>
+                <p>This is the first post on this site.<figure class="post__image"><img loading="lazy"  src="https://nuncastudios.com/media/posts/1/logo_nunc22a-2.png" alt="" width="1920" height="1080" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nuncastudios.com/media/posts/1/responsive/logo_nunc22a-2-xs.png 300w ,https://nuncastudios.com/media/posts/1/responsive/logo_nunc22a-2-sm.png 480w ,https://nuncastudios.com/media/posts/1/responsive/logo_nunc22a-2-md.png 768w ,https://nuncastudios.com/media/posts/1/responsive/logo_nunc22a-2-lg.png 1024w ,https://nuncastudios.com/media/posts/1/responsive/logo_nunc22a-2-xl.png 1360w ,https://nuncastudios.com/media/posts/1/responsive/logo_nunc22a-2-2xl.png 1600w"></figure>
             ]]>
         </content>
     </entry>
