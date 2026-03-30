@@ -235,3 +235,29 @@ img {
     font-style: italic;
     opacity: 0.7;
 }
+
+
+
+/* Garante que o botão tenha a mesma cara dos links da navbar */
+#copyEmailBtn {
+    background: none;
+    border: 1px solid #fff; /* Ou a cor que você definiu para o Contato */
+    color: #fff;
+    padding: 0px 20px;
+    cursor: pointer;
+    text-transform: uppercase;
+    transition: all 0.3s ease;
+    font-size: 0.9rem;
+}
+
+#copyEmailBtn:hover {
+    background: #fff;
+    color: #000;
+}
+
+/* Estilo de quando o e-mail é copiado */
+#copyEmailBtn.copied {
+    background: #27ae60; /* Verde sucesso */
+    border-color: #27ae60;
+    color: #fff;
+}

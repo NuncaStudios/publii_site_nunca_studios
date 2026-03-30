@@ -11,66 +11,6 @@
     },
     "items": [
         {
-            "id": "https://nuncastudios.com/jogo-teste-2.html",
-            "url": "https://nuncastudios.com/jogo-teste-2.html",
-            "title": "JOGO TESTE 1 (copy)",
-            "image": "https://nuncastudios.com/media/posts/8/Captura-de-tela-2025-10-29-163052.png",
-            "author": {
-                "name": "NuncaDev"
-            },
-            "tags": [
-                   "jogo"
-            ],
-            "date_published": "2026-03-29T16:25:39-03:00",
-            "date_modified": "2026-03-29T16:55:43-03:00"
-        },
-        {
-            "id": "https://nuncastudios.com/jogo-teste-1.html",
-            "url": "https://nuncastudios.com/jogo-teste-1.html",
-            "title": "JOGO TESTE 1",
-            "image": "https://nuncastudios.com/media/posts/7/Captura-de-tela-2025-10-29-163052.png",
-            "author": {
-                "name": "NuncaDev"
-            },
-            "tags": [
-                   "jogo"
-            ],
-            "date_published": "2026-03-29T16:25:22-03:00",
-            "date_modified": "2026-03-29T16:55:49-03:00"
-        },
-        {
-            "id": "https://nuncastudios.com/teste-post-3.html",
-            "url": "https://nuncastudios.com/teste-post-3.html",
-            "title": "Fisrt Post (copy)",
-            "summary": "This is the first post on this site.",
-            "content_html": "<p>This is the first post on this site.<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://nuncastudios.com/media/posts/6/logo_nunc22a-2.png\" alt=\"\" width=\"1920\" height=\"1080\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://nuncastudios.com/media/posts/6/responsive/logo_nunc22a-2-xs.png 300w ,https://nuncastudios.com/media/posts/6/responsive/logo_nunc22a-2-sm.png 480w ,https://nuncastudios.com/media/posts/6/responsive/logo_nunc22a-2-md.png 749w ,https://nuncastudios.com/media/posts/6/responsive/logo_nunc22a-2-xl.png 1200w\"></figure>",
-            "image": "https://nuncastudios.com/media/posts/6/logo_nunc22a-3.png",
-            "author": {
-                "name": "NuncaDev"
-            },
-            "tags": [
-                   "padrao"
-            ],
-            "date_published": "2026-03-28T21:52:48-03:00",
-            "date_modified": "2026-03-29T18:18:01-03:00"
-        },
-        {
-            "id": "https://nuncastudios.com/teste-post-2.html",
-            "url": "https://nuncastudios.com/teste-post-2.html",
-            "title": "Fisrt Post (copy)",
-            "summary": "This is the first post on this site.",
-            "content_html": "<p>This is the first post on this site.<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://nuncastudios.com/media/posts/5/logo_nunc22a-2.png\" alt=\"\" width=\"1920\" height=\"1080\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://nuncastudios.com/media/posts/5/responsive/logo_nunc22a-2-xs.png 300w ,https://nuncastudios.com/media/posts/5/responsive/logo_nunc22a-2-sm.png 480w ,https://nuncastudios.com/media/posts/5/responsive/logo_nunc22a-2-md.png 749w ,https://nuncastudios.com/media/posts/5/responsive/logo_nunc22a-2-xl.png 1200w\"></figure>",
-            "image": "https://nuncastudios.com/media/posts/5/logo_nunc22a-3.png",
-            "author": {
-                "name": "NuncaDev"
-            },
-            "tags": [
-                   "padrao"
-            ],
-            "date_published": "2026-03-28T21:52:46-03:00",
-            "date_modified": "2026-03-29T18:17:56-03:00"
-        },
-        {
             "id": "https://nuncastudios.com/teste-post-1.html",
             "url": "https://nuncastudios.com/teste-post-1.html",
             "title": "First Post",

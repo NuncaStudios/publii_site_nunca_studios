@@ -3,88 +3,12 @@
     <title>Nunca Studios</title>
     <link href="https://nuncastudios.com/feed.xml" rel="self" />
     <link href="https://nuncastudios.com" />
-    <updated>2026-03-29T18:18:01-03:00</updated>
+    <updated>2026-03-29T18:17:40-03:00</updated>
     <author>
         <name>NuncaDev</name>
     </author>
     <id>https://nuncastudios.com</id>
 
-    <entry>
-        <title>JOGO TESTE 1 (copy)</title>
-        <author>
-            <name>NuncaDev</name>
-        </author>
-        <link href="https://nuncastudios.com/jogo-teste-2.html"/>
-        <id>https://nuncastudios.com/jogo-teste-2.html</id>
-        <media:content url="https://nuncastudios.com/media/posts/8/Captura-de-tela-2025-10-29-163052.png" medium="image" />
-            <category term="jogo"/>
-
-        <updated>2026-03-29T16:25:39-03:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>JOGO TESTE 1</title>
-        <author>
-            <name>NuncaDev</name>
-        </author>
-        <link href="https://nuncastudios.com/jogo-teste-1.html"/>
-        <id>https://nuncastudios.com/jogo-teste-1.html</id>
-        <media:content url="https://nuncastudios.com/media/posts/7/Captura-de-tela-2025-10-29-163052.png" medium="image" />
-            <category term="jogo"/>
-
-        <updated>2026-03-29T16:25:22-03:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Fisrt Post (copy)</title>
-        <author>
-            <name>NuncaDev</name>
-        </author>
-        <link href="https://nuncastudios.com/teste-post-3.html"/>
-        <id>https://nuncastudios.com/teste-post-3.html</id>
-        <media:content url="https://nuncastudios.com/media/posts/6/logo_nunc22a-3.png" medium="image" />
-            <category term="padrao"/>
-
-        <updated>2026-03-28T21:52:48-03:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://nuncastudios.com/media/posts/6/logo_nunc22a-3.png" alt="" />
-                    This is the first post on this site.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://nuncastudios.com/media/posts/6/logo_nunc22a-3.png" class="type:primaryImage" alt="" /></p>
-                <p>This is the first post on this site.<figure class="post__image"><img loading="lazy"  src="https://nuncastudios.com/media/posts/6/logo_nunc22a-2.png" alt="" width="1920" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://nuncastudios.com/media/posts/6/responsive/logo_nunc22a-2-xs.png 300w ,https://nuncastudios.com/media/posts/6/responsive/logo_nunc22a-2-sm.png 480w ,https://nuncastudios.com/media/posts/6/responsive/logo_nunc22a-2-md.png 749w ,https://nuncastudios.com/media/posts/6/responsive/logo_nunc22a-2-xl.png 1200w"></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Fisrt Post (copy)</title>
-        <author>
-            <name>NuncaDev</name>
-        </author>
-        <link href="https://nuncastudios.com/teste-post-2.html"/>
-        <id>https://nuncastudios.com/teste-post-2.html</id>
-        <media:content url="https://nuncastudios.com/media/posts/5/logo_nunc22a-3.png" medium="image" />
-            <category term="padrao"/>
-
-        <updated>2026-03-28T21:52:46-03:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://nuncastudios.com/media/posts/5/logo_nunc22a-3.png" alt="" />
-                    This is the first post on this site.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://nuncastudios.com/media/posts/5/logo_nunc22a-3.png" class="type:primaryImage" alt="" /></p>
-                <p>This is the first post on this site.<figure class="post__image"><img loading="lazy"  src="https://nuncastudios.com/media/posts/5/logo_nunc22a-2.png" alt="" width="1920" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://nuncastudios.com/media/posts/5/responsive/logo_nunc22a-2-xs.png 300w ,https://nuncastudios.com/media/posts/5/responsive/logo_nunc22a-2-sm.png 480w ,https://nuncastudios.com/media/posts/5/responsive/logo_nunc22a-2-md.png 749w ,https://nuncastudios.com/media/posts/5/responsive/logo_nunc22a-2-xl.png 1200w"></figure>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>First Post</title>
         <author>
