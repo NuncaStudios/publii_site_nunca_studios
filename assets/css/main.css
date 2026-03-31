@@ -200,6 +200,46 @@ img {
 
 
 
+/* --- Ajustes exclusivos para Celulares --- */
+@media (max-width: 768px) {
+    
+    /* 1. Diminuir o nome do Studio que está gigante */
+    .logo-text {
+        font-size: 2.2rem !important; /* Ajuste o valor até ficar do seu agrado */
+        text-align: center;
+        display: block;
+        margin-bottom: 10px;
+    }
+
+    /* 2. Melhorar os ícones sociais (Acessibilidade) */
+    .social-links {
+        gap: 25px; /* Aumenta a distância entre os ícones (Threads, Insta, etc) */
+        justify-content: center;
+        margin-bottom: 15px;
+    }
+
+    .social-links a {
+        font-size: 1.5rem; /* Aumenta o tamanho real do ícone para facilitar o toque */
+        padding: 8px; /* Cria uma "área invisível" maior ao redor do ícone */
+    }
+
+    /* 3. Espaçamento entre os botões GAMES e CONTATO */
+    .contact-action {
+        flex-direction: row; /* Mantém lado a lado, ou use 'column' se quiser um em cima do outro */
+        gap: 20px; 
+        justify-content: center;
+        width: 100%;
+    }
+
+    /* Ajuste fino na Navbar para não embolar tudo */
+    .social-navbar {
+        flex-direction: column; /* Empilha as redes sociais em cima dos botões de ação */
+        height: auto;
+        padding: 15px 0;
+    }
+}
+
+
 
 /* --- 6. RODAPÉ --- */
 .main-footer {
