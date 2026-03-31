@@ -203,39 +203,36 @@ img {
 /* --- Ajustes exclusivos para Celulares --- */
 @media (max-width: 768px) {
     
-    /* 1. Diminuir o nome do Studio que está gigante */
-    .logo-text {
-        font-size: 2.2rem !important; /* Ajuste o valor até ficar do seu agrado */
-        text-align: center;
-        display: block;
-        margin-bottom: 10px;
+    :root {
+        /* Aqui a mágica acontece: mudamos o valor da variável 
+           que o Publii injetou, mas só para telas pequenas */
+        --logo-font-size: 2.2rem !important; 
     }
 
-    /* 2. Melhorar os ícones sociais (Acessibilidade) */
+    .logo-text {
+        /* Agora ele vai ler o novo valor de 2.2rem automaticamente */
+        text-align: center;
+        display: block;
+        width: 100%;
+        white-space: nowrap; /* Evita que o nome quebre em duas linhas */
+    }
+
+    /* 2. Ajuste dos ícones (Acessibilidade) */
     .social-links {
-        gap: 25px; /* Aumenta a distância entre os ícones (Threads, Insta, etc) */
+        gap: 25px; 
         justify-content: center;
-        margin-bottom: 15px;
+        margin-bottom: 20px;
     }
 
     .social-links a {
-        font-size: 1.5rem; /* Aumenta o tamanho real do ícone para facilitar o toque */
-        padding: 8px; /* Cria uma "área invisível" maior ao redor do ícone */
+        font-size: 1.6rem;
+        padding: 10px; /* Área de toque garantida para o dedão */
     }
 
-    /* 3. Espaçamento entre os botões GAMES e CONTATO */
+    /* 3. Botões de Ação */
     .contact-action {
-        flex-direction: row; /* Mantém lado a lado, ou use 'column' se quiser um em cima do outro */
-        gap: 20px; 
+        gap: 15px;
         justify-content: center;
-        width: 100%;
-    }
-
-    /* Ajuste fino na Navbar para não embolar tudo */
-    .social-navbar {
-        flex-direction: column; /* Empilha as redes sociais em cima dos botões de ação */
-        height: auto;
-        padding: 15px 0;
     }
 }
 
