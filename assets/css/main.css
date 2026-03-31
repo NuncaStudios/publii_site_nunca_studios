@@ -206,7 +206,7 @@ img {
     :root {
         /* Aqui a mágica acontece: mudamos o valor da variável 
            que o Publii injetou, mas só para telas pequenas */
-        --logo-font-size: 2.2rem !important; 
+        --logo-font-size: 2.8rem !important; 
     }
 
     .logo-text {
