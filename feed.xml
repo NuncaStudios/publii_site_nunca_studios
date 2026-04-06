@@ -3,7 +3,7 @@
     <title>Nunca Studios</title>
     <link href="https://nuncastudios.com/feed.xml" rel="self" />
     <link href="https://nuncastudios.com" />
-    <updated>2026-03-29T18:17:40-03:00</updated>
+    <updated>2026-04-06T13:22:09-03:00</updated>
     <author>
         <name>NuncaDev</name>
     </author>
@@ -29,7 +29,7 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://nuncastudios.com/media/posts/1/logo_nunc22a-3.png" class="type:primaryImage" alt="" /></p>
-                <p>This is the first post on this site.<figure class="post__image"><img loading="lazy"  src="https://nuncastudios.com/media/posts/1/logo_nunc22a-2.png" alt="" width="1920" height="1080" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://nuncastudios.com/media/posts/1/responsive/logo_nunc22a-2-xs.png 300w ,https://nuncastudios.com/media/posts/1/responsive/logo_nunc22a-2-sm.png 480w ,https://nuncastudios.com/media/posts/1/responsive/logo_nunc22a-2-md.png 749w ,https://nuncastudios.com/media/posts/1/responsive/logo_nunc22a-2-xl.png 1200w"></figure>
+                <p>This is the first post on this site.</p>
             ]]>
         </content>
     </entry>

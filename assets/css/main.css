@@ -330,3 +330,96 @@ img {
         text-align: center;
     }
 }
+
+
+
+
+main {
+    max-width: 800px;    /* Limita a largura para o texto não ficar cansativo */
+    margin: 0 auto;      /* Centraliza na tela */
+    padding: 0px 20px;  /* 20px nas laterais evita o texto colado na borda */
+}
+
+.post-header {
+    margin-bottom: 40px;
+    text-align: left;    /* Ou center, se preferir */
+}
+
+.post-header h1 {
+    font-family: 'SuperMellow', sans-serif;
+    font-size: 3rem;
+    margin-bottom: 10px;
+    letter-spacing: 1px;
+}
+
+.post-meta {
+    color: #666;
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.post-meta .separator {
+    margin: 0 10px;
+    color: #333;
+}
+
+.post-author {
+    color: #ff3333; /* Vermelho NUNCA */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.post-author-name {
+    color: #ff3333; /* Ou a cor que você preferir para destacar o nome */
+    font-weight: bold;
+}
+
+/* --- IMAGEM DE DESTAQUE --- */
+#featured-image {
+    margin: 40px 0;
+    text-align: center;
+}
+
+#featured-image img {
+    max-width: 100%;     /* Não deixa estourar a largura */
+    max-height: 500px;   /* LIMITA A ALTURA: mude esse valor para o que preferir */
+    width: auto;         /* Mantém a proporção */
+    height: auto;
+    border-radius: 8px;
+    display: block;
+    margin: 0 auto;
+}
+
+/* --- CONTEÚDO DO POST --- */
+#post-entry {
+    line-height: 1.8;
+    font-size: 1.1rem;
+    color: #ccc;
+}
+
+#post-entry p {
+    margin-bottom: 25px;
+}
+
+/* --- LINHA QUE ATRAVESSA A TELA INTEIRA --- */
+.post-horizontal-line {
+    height: 2px;
+    background-color: #ffffff;
+    
+    /* A mágica para ocupar a tela toda mesmo dentro de um container limitado */
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+
+    /* Espaçamento vertical entre o conteúdo e a linha */
+    margin-top: 0px;
+    margin-bottom: 50px;
+    opacity: 60%;
+    
+    border: none;
+    display: block;
+}
